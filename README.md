@@ -1,7 +1,18 @@
+# Learn Markdown Syntax
+## Topics covered
+- Inline code block
+- Styling
+- Order and unorder list with nesting
+- Block Quote
+- Git markdown
+    - Table creation
+    - Task List
+    - Code 
 
+## Date
+Day 3 of my ML Sprint – 26-Sep-2025 Markdown
 
-
-
+---
 
 # Learn NumPy and Pandas
 
